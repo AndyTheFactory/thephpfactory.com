@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sleep tight, my little prince.</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sleep tight, my little prince.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2025 00:24:47 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 28 Jan 2025 00:24:47 +0200</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Get in Touch (or Don&amp;rsquo;t) Hey there! If you’ve found yourself on this page, you’re either:&#xA;Trying to find some joomla project we developed. Wanting to get some support (sorry, we&amp;rsquo;re dead). Just clicking buttons to see what happens (a valid life strategy). Either way, here’s how you can contact me:&#xA;Email Me Drop me an email at hello@thephpfactory.com. I promise to reply faster than your grandma does to your text messages (but slower than a bot spamming your inbox).</description>
+    </item>
+    <item>
+      <title>Our fallen Soldiers</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Tue, 28 Jan 2025 00:24:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Here lies a collection of the world finest (and quirkiest) Joomla creations. Each project was built with love, a little frustration, and just the right amount of caffeine. Dive in, explore, and maybe even fork a repo or two—these beauties deserve some attention!&#xA;Auction Extensions Auction Factory The ultimate auction system for Joomla, supporting various auction types including proxy bidding. GitHub Repository&#xA;Reverse Auction Factory Allows end-users to post requests to obtain the best price for services or products.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 28 Jan 2025 00:23:51 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Here lies ThePHPFactory.com, a humble website that, for many, served as a quiet corner of the internet dedicated to Joomla extensions and Joomla development. Like a dependable utility in the toolkit of countless developers, The PHP Factory stood for practicality, function, and a passion for coding — a passion that no doubt shaped many careers and projects in ways seen and unseen.&#xA;Born into the vast digital landscape, ThePHPFactory.com grew to represent a bygone era of the internet: a simpler time when community-driven resources flourished and developers sought knowledge in niche corners of the web rather than centralized platforms.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,78 @@
+baseURL = 'https://thephpfactory.com/'
+languageCode = 'en-us'
+title = 'Sleep tight, my little prince.'
+theme = 'hello-friend-ng'
+paginate     = 10
+
+
+[params]
+  description = ["In the vast kingdom of code, you stood as a modest yet noble castle, a home for dreamers and builders alike.",
+   "Though your lights have dimmed and your gates have closed, the echoes of your wisdom will forever resonate in the hearts of those you touched.",
+   "",
+   "Rest now, in the quiet halls of memory."]  # Replace with your site description
+
+  dateFormat = "02 Jan 2006"  # Optional, date format for posts
+  disableDarkModeToggle = false  # Show dark mode toggle option
+  showReadingTime = false  # Show estimated reading time for posts
+  disableReadOtherPosts = true
+  enableThemeToggle = true
+
+  [params.author]
+    name = "A.P."
+# Social links
+  [[params.social]]
+    name = "twitter"
+    url  = "https://x.com/thephpfactory"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:hello@thephpfactory.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/AndyTheFactory"
+
+#  [[params.social]]
+#    name = "linkedin"
+#    url  = "https://www.linkedin.com/"
+
+
+  # Custom footer
+  # If you want, you can easily override the default footer with your own content.
+  #
+  [params.footer]
+    trademark = 2025
+    rss = true
+    copyright = true
+    author = true
+
+    topText = []
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+    ]
+
+
+# Menu items
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Fallen Comrades"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
